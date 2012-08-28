@@ -1,4 +1,3 @@
-Второй отрывок моей книги.
-Данный отрывок открыт для правки всеми желающими в данный момент.
-Буду рад помощи.
-
+Red sky blue sky scribus book template
+licensed under GNU GPLv2
+https://www.gnu.org/licenses/gpl-2.0.html

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+	<template category="Text Documents">
+		<name>RSBS template</name>
+		<file>RSBS.sla</file>
+		<tnail>RSBS templatetn.png</tnail>
+		<img>RSBS template.png</img>
+		<psize>A4, портрет</psize>
+		<color></color>
+		<descr>Book template</descr>
+		<usage>GNU GPL v2
+https://www.gnu.org/licenses/gpl-2.0.html</usage>
+		<scribus_version>1.4.1.svn</scribus_version>
+		<date>2012-08-28</date>
+		<author>Anonymous</author>
+		<email>genius@genworld.info</email>
+	</template>
+</templates>
